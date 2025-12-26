@@ -1,6 +1,6 @@
 # Projet PHP
 
-Ce projet contient trois fichiers PHP:
+Ce projet contient deux fichier :
 
 - registre.php : inscription des utilisateurs
 - config.php : connexion à la base de données
